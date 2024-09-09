@@ -21,7 +21,7 @@ body {
 a {
 	text-decoration: none;
 	cursor: pointer;
-	color: #00bcdd;
+	color: #86d201;
 	transition: all 300ms linear;
 }
 
@@ -167,8 +167,8 @@ p{
   font-size: 16px;
   text-align: center;
   text-transform: capitalize;
-  background: #00bcdd;
-  border: 2px solid #00bcdd;
+  background: #86d201;
+  border: 2px solid #86d201;
   border-radius: 5px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -202,9 +202,9 @@ p{
 }
 
 .btn-style-one:hover{
-  color: #00bcdd;
+  color: #86d201;
   background: none;
-  border-color: #00bcdd;
+  border-color: #86d201;
 }
 
 .btn-style-two{
@@ -220,8 +220,8 @@ p{
   font-size: 16px;
   text-align: center;
   text-transform: capitalize;
-  background: #00bcdd;
-  border: 2px solid #00bcdd;
+  background: #86d201;
+  border: 2px solid #86d201;
   border-radius: 5px;
   -moz-transition:all 0.3s ease;
   -webkit-transition:all 0.3s ease;
@@ -260,9 +260,9 @@ p{
 }
 
 .btn-style-two:hover{
-  color: #00bcdd;
+  color: #86d201;
   background: none;
-  border-color: #00bcdd;
+  border-color: #86d201;
 }
 
 .btn-style-two i img{
@@ -331,8 +331,8 @@ p{
 
 .btn-style-three:hover{
   color: #ffffff;
-  background: #00bcdd;
-  border-color: #00bcdd;
+  background: #86d201;
+  border-color: #86d201;
 }
 
 .btn-style-three i img{
@@ -357,7 +357,7 @@ p{
 }
 
 .theme_color {
-  color: #00bcdd;
+  color: #86d201;
 }
 
 .light-font {

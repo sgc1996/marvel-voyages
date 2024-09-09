@@ -928,7 +928,7 @@ form label.error{
 
 .header-style-two .header-upper{
   top: 40px;
-  background: #fff;
+  background: #86d2012e;
 }
 
 .header-style-two{
@@ -944,7 +944,7 @@ form label.error{
 .fixed-header .header-upper{
   position: fixed;
   top: 0;
-  background: #fff;
+  background: #86d2012e;
   border-bottom-color: rgba(0,0,0,0.15);
 }
 
