@@ -3956,9 +3956,9 @@ body.visible-sidebar{
 
 .main-footer .f-bottom .copyright{
   position: relative;
-  float: left;
   color: var(--medium-gray-color);
   line-height: 24px;
+  text-align: center;
 }
 
 .main-footer.style-two .f-bottom .copyright{
