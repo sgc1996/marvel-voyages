@@ -13,6 +13,21 @@
 
 	<link href="assets/images/favicon.png" rel="shortcut icon" type="image/x-icon">
 
+	<!--SEO-->
+	<meta name="description" content="Get in touch with Marvel Voyages for tailored travel experiences in Sri Lanka. Contact us for inquiries about adventure tours, cultural experiences, wellness retreats, and more. We are here to assist with all your travel needs." />
+	<meta name="keywords" content="Marvel Voyages contact, Sri Lanka travel inquiries, travel agency contact, Marvel Voyages phone, Marvel Voyages email, custom tour packages, Sri Lanka adventure tours, wellness retreats, cultural experiences" />
+	<meta name="author" content="Marvel Voyages" />
+		
+	<meta property="og:title" content="Contact Us - Marvel Voyages | Your Travel Partner in Sri Lanka" />
+	<meta property="og:description" content="Reach out to Marvel Voyages for all your travel inquiries. We offer adventure tours, cultural trips, and wellness retreats across Sri Lanka. Contact us today to start planning your dream vacation!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://www.marvelvoyages.lk/contact.php" />
+	<meta property="og:image" content="https://marvelvoyages.lk/assets/images/logo.png" />
+	<meta property="og:site_name" content="Marvel Voyages" />
+	<meta property="og:locale" content="en_US" />
+
+	<!--SEO-->
+
 	<!-- Google Fonts -->
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -62,6 +77,7 @@
 							<span data-text-preloader="A" class="letters-loading">A</span>
 							<span data-text-preloader="G" class="letters-loading">G</span>
 							<span data-text-preloader="E" class="letters-loading">E</span>
+							<span data-text-preloader="S" class="letters-loading">S</span>
 							<!--<span data-text-preloader="O" class="letters-loading">O</span>-->
 						</div>
 					</div>
